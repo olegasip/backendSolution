@@ -13,5 +13,6 @@ public class PressureFive {
         System.out.println("Result: ");
         System.out.println("    " + greet("Johnny"));
         System.out.println("    " + greet("Steve"));
+        System.out.println("    " + greet("olegasip"));
     }
 }
